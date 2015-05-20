@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// MurmurHash2, by Austin Appleby
+// MurmurHash2, by Zheming
 
 // Note - This code makes a few assumptions about how your machine behaves -
 

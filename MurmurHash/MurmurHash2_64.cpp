@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// MurmurHash2, 64-bit versions, by Austin Appleby
+// MurmurHash2, 64-bit versions, by Zheming
 
 // The same caveats as 32-bit MurmurHash2 apply here - beware of alignment 
 // and endian-ness issues if used across multiple platforms.

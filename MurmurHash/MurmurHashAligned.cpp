@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// MurmurHashAligned, by Austin Appleby
+// MurmurHashAligned, by Zheming
 
 // Same algorithm as MurmurHash, but only does aligned reads - should be safer
 // on certain platforms.

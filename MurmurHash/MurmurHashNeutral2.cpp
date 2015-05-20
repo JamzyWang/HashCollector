@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// MurmurHashNeutral2, by Austin Appleby
+// MurmurHashNeutral2, by Zheming
 
 // Same as MurmurHash2, but endian- and alignment-neutral.
 // Half the speed though, alas.
