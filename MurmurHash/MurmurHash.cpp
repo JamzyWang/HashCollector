@@ -1,5 +1,4 @@
 //-----------------------------------------------------------------------------
-// MurmurHash, by Zheming
 
 // Note - This code makes a few assumptions about how your machine behaves -
 

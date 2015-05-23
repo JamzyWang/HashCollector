@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-// MurmurHashAligned, by Zheming
+// MurmurHashAligned
 
 // Same algorithm as MurmurHash, but only does aligned reads - should be safer
 // on certain platforms.
